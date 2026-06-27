@@ -1,16 +1,28 @@
-## Hi there 👋
+![](https://komarev.com/ghpvc/?username=10KRITESH)
 
-<!--
-**10KRITESH/10KRITESH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Kritesh Goud
 
-Here are some ideas to get you started:
+Driven by the love of the game. <br>
+Building backend systems, developer tools, and AI projects. <br>
+Learning fast. Shipping faster.
+## A more formal waste of my time
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```js
+const mySkills = {
+  languages: ["TypeScript", "JavaScript", "Python", "C++"],
+  backend:   ["Node.js", "Express"],
+  frontend:  ["React", "Next.js"],
+  databases: ["PostgreSQL", "MongoDB", "Redis", "Prisma", "pgvector"],
+  cloud:     ["AWS", "GCP"],
+  devops:    ["Docker", "GitHub Actions", "Git"],
+};
+```
+
+## Github Stats
+
+<p>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=10KRITESH" alt="GitHub Streak" height="195" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=10KRITESH&theme=graywhite&show_icons=true&hide_border=true&layout=compact&langs_count=10" alt="Top Languages" height="195" />
+</p>
