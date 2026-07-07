@@ -1,4 +1,5 @@
 <!-- ![](https://komarev.com/ghpvc/?username=10KRITESH) -->
+![](https://komarev.com/ghpvc/?username=10KRITESH)
 
 ## Kritesh Goud
 
