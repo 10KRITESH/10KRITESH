@@ -25,5 +25,5 @@ const mySkills = {
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=10KRITESH" alt="GitHub Streak" height="165" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=10KRITESH&theme=graywhite&show_icons=true&hide_border=true&layout=compact&langs_count=10" alt="Top Languages" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=10KRITESH&theme=graywhite&show_icons=true&hide_border=true&layout=compact&langs_count=10" alt="Top Languages" height="165" />
 </p>
